@@ -1,8 +1,8 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
-  host: 'http://localhost',
+  secretKey: 'baf2df13d259a3d6ccdfe70a26e365c009888d1d80f5799b6b86071db44c393e',
+  host: 'https://wppconnect.medisync-solutions.com',
   port: '21465',
   deviceName: 'WppConnect',
   poweredBy: 'WPPConnect-Server',
